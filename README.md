@@ -1,0 +1,1 @@
+Hola Chicos, aqui tienen lo que logre adelantar de la documentación del proyecto final. Hace falta el documento de arquitectura formal, pero ya los análisis están ahí, agradezco si alguien lo puede ir adelantando
